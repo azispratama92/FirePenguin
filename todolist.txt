@@ -1,0 +1,2 @@
+Gabungkan dengan perkakas anti netcut (toh sama2 python). 
+Gabungkan dengan perkakas nmcli (upaya pemulihan jaringan). 
